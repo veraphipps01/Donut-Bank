@@ -1,8 +1,11 @@
 var express = require('express');
 var app     = express();
 var cors    = require('cors');
+
+require('dotenv').config();
+console.log(process.env);
+
 var dal     = require('./dal.js');
-const e = require('express');
 
 // used to serve static files from public directory
 app.use(express.static('public'));
@@ -37,11 +40,11 @@ app.get('/account/login/:email/:password', function (req, res) {
                     res.send(user[0]);
                 }
                 else{
-                    res.send('Login failed: wrong password');
+                    res.send({error:'Login failed: wrong password'});
                 }
             }
             else{
-                res.send('Login failed: user not found');
+                res.send({error:'Login failed: user not found'});
             }
     });
     
