@@ -6,7 +6,7 @@
 
 
 
-![ReadMEVideo](https://github.com/veraphipps01/Donut-Bank/blob/main/Badbank.gif)
+![ReadMEPic]([https://github.com/veraphipps01/Donut-Bank/blob/main/Badbank.gif](https://github.com/veraphipps01/Donut-Bank/blob/main/Donut.png))
 
 ### Description
 
