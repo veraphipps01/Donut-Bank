@@ -1,12 +1,12 @@
 # Full-Stack Banking App 
 
 ### Project Title
-##      [BadBank Application](https://donut-bank.herokuapp.com/)
+##      [Donut Bank Application](https://donut-bank.herokuapp.com/)
 
 
 
 
-![ReadMEPic]([https://github.com/veraphipps01/Donut-Bank/blob/main/Badbank.gif](https://github.com/veraphipps01/Donut-Bank/blob/main/Donut.png))
+![Screenshot]([https://github.com/veraphipps01/Donut-Bank/blob/main/Badbank.gif](https://github.com/veraphipps01/Donut-Bank/blob/main/Donut.png))
 
 ### Description
 
