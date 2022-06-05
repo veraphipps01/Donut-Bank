@@ -1,7 +1,6 @@
 # Full-Stack Banking App 
 
-### Project Title
-##      [Donut Bank Application](https://donut-bank.herokuapp.com/)
+###      [Donut Bank Application](https://donut-bank.herokuapp.com/)
 
 
 
