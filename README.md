@@ -1,4 +1,4 @@
-# Full-Stack Bankinf=g App 
+# Full-Stack Banking App 
 
 ### Project Title
 ##      [BadBank Application](https://donut-bank.herokuapp.com/)
