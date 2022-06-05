@@ -12,6 +12,8 @@
 
 This full-stack app was created as a final project for web development bootcamp. It was initially built via create-react-app and connected to backend with Express and MongoDB Cloud Solution.
 
+ ### [See In Action](https://donut-bank.herokuapp.com/)
+
 ### Installation Guidelines
 
 The app can be run via local server which requires the following steps: 
