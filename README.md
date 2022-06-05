@@ -5,7 +5,7 @@
 
 
 
-![Screenshot](https://github.com/veraphipps01/Donut-Bank/blob/main/Donut.png)
+![Screenshot](https://github.com/veraphipps01/Donut-Bank/blob/main/Screen.png)
 
 ### Description
 
